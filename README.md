@@ -15,3 +15,5 @@ Tailwind Shades?
 Version Lens?
 Error Lens?
 Console Ninja?
+
+Chapter 13 - Handling Errors
